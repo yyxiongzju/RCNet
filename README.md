@@ -2,7 +2,7 @@
 Resource Constrained Neural Network Architecture Search: Will a Submodularity Assumption Help?
 
 # Requirements
-## Dependencies
+## Dependency
 PyTorch 0.4.1 
 ## Dataset
 Download the ImageNet dataset and move validation images to labeled subfolders using https://raw.githubusercontent.com/soumith/imagenetloader.torch/master/valprep.sh.
